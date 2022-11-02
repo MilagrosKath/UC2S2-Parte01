@@ -1,10 +1,10 @@
-1. Luisa
-2. Shakira
-3. Gerard
-4. Geraldine
-5. Sofia
-6. Marta
-7. Miguel
-8. Luis
-9. Kevin
-10. Sol
+Luisa
+Shakira
+Gerard
+Geraldine
+Sofia
+Marta
+Miguel
+Luis
+Kevin
+Sol

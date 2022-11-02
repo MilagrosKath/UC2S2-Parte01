@@ -1,10 +1,10 @@
-1. Vilcapoma
-2. Sanchez
-3. Suarez
-4. Castillo
-5. Dominguez
-6. Gonzales
-7. Alamo
-8. Gomez
-9. Bermudez
-10. Zapata
+Vilcapoma
+Sanchez
+Suarez
+Castillo
+Dominguez
+Gonzales
+Alamo
+Gomez
+Bermudez
+Zapata
